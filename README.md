@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Bruno César 👋
 
 - 🔭 Hoje trabalho com Desenvolvimento Web
-- 🌱 Estudando Kotlin, Serviços em nuvem, Docker 
+- 🌱 Estudando Kotlin, Micro-Serviços, Serviços em nuvem, Docker 
 - 😄 Pronouns: ele/dele
 
 <div>
