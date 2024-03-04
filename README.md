@@ -2,7 +2,7 @@
 
 I'm Bruno César,  I'm a Project Tech Lead and Senior Java Developer at Cilia Tecnologia, and I've been working in tech since 2017. 
 
-[![Linkedin: bruno](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-cesar-vicente/)](https://www.linkedin.com/in/bruno-cesar-vicente/)
+[![Linkedin: bruno](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-cesar-vicente/)](https://www.linkedin.com/in/bruno-cesar-vicente/)
 
 ## ⚡ Technologies
 
